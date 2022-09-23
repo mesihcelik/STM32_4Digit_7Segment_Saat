@@ -6,15 +6,15 @@
 * Alarm özelliğine sahip.
 * Dijital Saat Yazılımı.
 
-##-SAAT GENEL GÖRÜNÜM-
+## -SAAT GENEL GÖRÜNÜM-
 ![3DPCB](https://github.com/mesihcelik/STM32_4Digit_7Segment_Saat/blob/1a286ab6a0fa34269d9d0793339683827a774008/Genel%20Resim/Saat1.jpeg)
-##-SAAT GÖRÜNÜM-
+## -SAAT GÖRÜNÜM-
 ![3DPCB](https://github.com/mesihcelik/STM32_4Digit_7Segment_Saat/blob/8723a5e3e17ab67bb449753aed4514beeb2eb274/Genel%20Resim/Saat2.jpeg)
-##-NEM-
+## -NEM-
 ![3DPCB](https://github.com/mesihcelik/STM32_4Digit_7Segment_Saat/blob/8723a5e3e17ab67bb449753aed4514beeb2eb274/Genel%20Resim/Saat3.jpeg)
-##-DERECE-
+## -DERECE-
 ![3DPCB](https://github.com/mesihcelik/STM32_4Digit_7Segment_Saat/blob/8723a5e3e17ab67bb449753aed4514beeb2eb274/Genel%20Resim/Saat4.jpeg)
-##-AL-(ALARM AYARI)
+## -AL-(ALARM AYARI)
 ![3DPCB](https://github.com/mesihcelik/STM32_4Digit_7Segment_Saat/blob/8723a5e3e17ab67bb449753aed4514beeb2eb274/Genel%20Resim/Saat5.jpeg)
-##-SET-(SAAT AYAR)
+## -SET-(SAAT AYAR)
 ![3DPCB](https://github.com/mesihcelik/STM32_4Digit_7Segment_Saat/blob/8723a5e3e17ab67bb449753aed4514beeb2eb274/Genel%20Resim/Saat6.jpeg)
