@@ -16,5 +16,5 @@
 ![3DPCB](https://github.com/mesihcelik/STM32_4Digit_7Segment_Saat/blob/8723a5e3e17ab67bb449753aed4514beeb2eb274/Genel%20Resim/Saat4.jpeg)
 ## -AL-(ALARM AYARI)
 ![3DPCB](https://github.com/mesihcelik/STM32_4Digit_7Segment_Saat/blob/8723a5e3e17ab67bb449753aed4514beeb2eb274/Genel%20Resim/Saat5.jpeg)
-## -SET-(SAAT AYAR)
+## -SET-(SAAT AYARI)
 ![3DPCB](https://github.com/mesihcelik/STM32_4Digit_7Segment_Saat/blob/8723a5e3e17ab67bb449753aed4514beeb2eb274/Genel%20Resim/Saat6.jpeg)
