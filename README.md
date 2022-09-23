@@ -5,4 +5,4 @@
 * Sahip olduğu 6 Buton ile ayarlanabilen.
 * Alarm özelliğine sahip.
 * Dijital Saat Yazılımı.
-![3DPCB](https://github.com/mesihcelik/Wireless-Security-Detector/blob/360b61a0db4df3baafbc674650a38ad9364038fd/info/3D%20PCB%20G%C3%B6r%C3%BCn%C3%BCm.PNG)
+![3DPCB](https://github.com/mesihcelik/STM32_4Digit_7Segment_Saat/blob/1a286ab6a0fa34269d9d0793339683827a774008/Genel%20Resim/Saat1.jpeg)
